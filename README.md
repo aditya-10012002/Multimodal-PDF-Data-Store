@@ -6,10 +6,10 @@
 
 <hr>
 
-### Branch - summaries
+### Branch: data-extraction
 
-Here is the part of the extraction of data and summary generation using ```Gemini 2.0 flash```. The next step is vector embeddings of the summaries and data storage while the relation between the summary and the data is not lost
+Here is the part of the extraction of multimodal data consisting of Text, tables and images using the ```unstructured``` library. The next step is generating the summaries of these data elements for the further steps.
 
 <br>
 
-![Flowchart - Summary.png](<https://media-hosting.imagekit.io/087ad6174ee34564/Flowchart%20-%20Summary.png?Expires=1838058124&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=lHrEeDFcPNZxrtSPQOJ~t-Woxjfy6jjDumeJmW903e6hHroPIQRWvGHXN7lMAy997UxFrAQ9ATZwfjG9N8ttVV-B8jJ4b~y5Hys-PxKmd2yJYrzYsom12vxc4DiN01Y8-Bb9qMbJp43AwYoqiyHjOwWUEJM4FLPvbwOptqDaHDmihlfFYjLHRptPW9U4nxszmNJYksI-CeZepY5PNk97lxiiqom479hZlR919gX1J8L2sNltbSp6oJEN9F9aikVIQiXkCR052867Ua35Rbxg~MuXY7lnLHRaYyrq5qETIa4FR3IU6NjQXEm~6nYrXl2uHDylaQQ7vZRS5lh3VH3pHg__>)
+![Flowchart - extraction.png](<https://media-hosting.imagekit.io/14303059fb6648c1/Flowchart%20-%20extraction.png?Expires=1838120694&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=UtZDNehmrNKGbh~PjvKbIaXkxukTWixINLQdM8giVr8Hl5msj2ss2tjaNhj7~lXcqPv6VeqdCKy~VWQiBlQOkTzUGuZdohpnCpkr6xNK1M~8JcaD60RxFDr~1trM2gbS9lIFU8yrtYLyNx5rnGW-MURJu9Ryhmjm0N5GR627kkD2pXcCKULARZdkESSukKFA3-wFvdtzZ0pkUJ4bHmzRlAuX7~NMmaAIn0vUGhVEvl40spmKkPZOyr0FZQxB5GWw8rqaGZ3yyb6dmxXJDVFQVDfmQe16Zi-eNWPAIu-ssy6I0lLilxx1Frq9AFB3u6Pol3Wfqu7jcb9X96gH2mmeRg__>)
