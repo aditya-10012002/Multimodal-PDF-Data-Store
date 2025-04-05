@@ -6,9 +6,9 @@
 
 <hr>
 
-### Branch: summaries
+### Branch: vector-store
 
-Here is the part of the summary generation of the extracted data elemets using ```Gemini 2.0 flash```. The next step is vector embeddings of the summaries and data storage while the relation between the summary and the data is not lost
+This step is vector embeddings of the summaries and data storage while the relation between the summary and the data is not lost using ```Vector``` store and ```Doc``` store.
 
 <br>
 
